@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="num1">Digite outro número</string>
+    <string name="num2">Digite um número</string>
+    <string name="result"> </string>
+    <string name="btnok">Soma</string>
+    <string name="menos">Subtração</string>
+    <string name="divisao">Divisão</string>
+    <string name="multiplicacao">Multiplicação</string>
+    <string name="subtracao">Subtração</string>
+</resources>
